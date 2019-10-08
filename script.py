@@ -7,4 +7,4 @@ class TestScript(unittest.TestCase):
 		self.assertEqual(say("vladislav"), "Hello!, vladislav")
 
 if __name__ == "__main__":
-	unittest.main.()
+	unittest.main()
